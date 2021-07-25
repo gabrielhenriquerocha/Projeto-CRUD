@@ -1,0 +1,29 @@
+
+.aviso{
+    width: 90%;
+    height: 50px;
+    margin: 20px auto 0px auto;
+}
+.sucesso{
+    width: 90%;
+    height: 50px;
+    margin: 20px auto 0px auto;
+}
+img{
+    width: 30px;
+    display: block;
+    float: left;    
+}
+h1{
+     font-size:40px;  color: #red; text-align: center;
+   }
+
+
+ select {
+  width: 100%;
+  min-height: 50px;
+  margin-bottom: 20px;
+   
+    }
+
+
